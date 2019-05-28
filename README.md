@@ -96,7 +96,7 @@ To cite this lesson, please consult with [CITATION](CITATION)
 [episode04]: http://swcarpentry.github.io/python-novice-inflammation/04-files/index.html
 [episode05]: http://swcarpentry.github.io/python-novice-inflammation/05-cond/index.html
 [episode06]: http://swcarpentry.github.io/python-novice-inflammation/06-func/index.html
-[episode07]: http://swcarpentry.github.io/python-novice-inflammation/07-errors/index.html
-[episode08]: http://swcarpentry.github.io/python-novice-inflammation/08-defensive/index.html
-[episode09]: http://swcarpentry.github.io/python-novice-inflammation/09-debugging/index.html
-[episode10]: http://swcarpentry.github.io/python-novice-inflammation/10-cmdline/index.html
+[episode10]: http://swcarpentry.github.io/python-novice-inflammation/07-cmdline/index.html
+[episode09]: http://swcarpentry.github.io/python-novice-inflammation/08-debugging/index.html
+[episode08]: http://swcarpentry.github.io/python-novice-inflammation/09-defensive/index.html
+[episode07]: http://swcarpentry.github.io/python-novice-inflammation/10-errors/index.html
