@@ -33,7 +33,7 @@
 [osi]: https://opensource.org
 [pandoc]: https://pandoc.org/
 [paper-now]: https://github.com/PeerJ/paper-now
-[python-gapminder]: https://swcarpentry.github.io/python-novice-gapminder/
+[python-gapminder]: https://M4rkD.github.io/python-novice-gapminder/
 [pyyaml]: https://pypi.python.org/pypi/PyYAML
 [r-markdown]: https://rmarkdown.rstudio.com/
 [rstudio]: https://www.rstudio.com/
@@ -42,7 +42,7 @@
 [rubygems]: https://rubygems.org/pages/download/
 [styles]: https://github.com/carpentries/styles/
 [swc-lessons]: https://software-carpentry.org/lessons/
-[swc-releases]: https://github.com/swcarpentry/swc-releases
+[swc-releases]: https://github.com/M4rkD/swc-releases
 [training]: https://carpentries.github.io/instructor-training/
 [workshop-repo]: {{ site.workshop_repo }}
 [yaml]: http://yaml.org/

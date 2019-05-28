@@ -20,7 +20,7 @@ how it is better to automate analysis using functions instead of repeating analy
 steps manually.
 
 The rendered version of the lesson is available at:
-<https://swcarpentry.github.io/python-novice-inflammation/>.
+<https://M4rkD.github.io/python-novice-inflammation/>.
 
 This lesson is also available in [R][R] and [MATLAB][MATLAB].
 
@@ -82,21 +82,21 @@ To cite this lesson, please consult with [CITATION](CITATION)
 [good-practices]: http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510
 [R]: https://github.com/swcarpentry/r-novice-inflammation
 [MATLAB]: https://github.com/swcarpentry/matlab-novice-inflammation
-[shields_release]: https://img.shields.io/github/release/swcarpentry/python-novice-inflammation.svg
-[swc_py_releases]: https://github.com/swcarpentry/python-novice-inflammation/releases
+[shields_release]: https://img.shields.io/github/release/M4rkD/python-novice-inflammation.svg
+[swc_py_releases]: https://github.com/M4rkD/python-novice-inflammation/releases
 [create_slack_svg]: https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg
 [slack_heroku_invite]: https://swc-slack-invite.herokuapp.com
 [slack_channel_status]: https://img.shields.io/badge/Slack_Channel-swc--py--inflammation-E01563.svg
 [slack_channel_url]: https://swcarpentry.slack.com/messages/C9Y0L6MF0
-[travis_svg]: https://travis-ci.org/swcarpentry/python-novice-inflammation.svg?branch=gh-pages
-[travis_url]: https://travis-ci.org/swcarpentry/python-novice-inflammation
-[episode01]: http://swcarpentry.github.io/python-novice-inflammation/01-numpy/index.html
-[episode02]: http://swcarpentry.github.io/python-novice-inflammation/02-loop/index.html
-[episode03]: http://swcarpentry.github.io/python-novice-inflammation/03-lists/index.html
-[episode04]: http://swcarpentry.github.io/python-novice-inflammation/04-files/index.html
-[episode05]: http://swcarpentry.github.io/python-novice-inflammation/05-cond/index.html
-[episode06]: http://swcarpentry.github.io/python-novice-inflammation/06-func/index.html
-[episode10]: http://swcarpentry.github.io/python-novice-inflammation/07-cmdline/index.html
-[episode09]: http://swcarpentry.github.io/python-novice-inflammation/08-debugging/index.html
-[episode08]: http://swcarpentry.github.io/python-novice-inflammation/09-defensive/index.html
-[episode07]: http://swcarpentry.github.io/python-novice-inflammation/10-errors/index.html
+[travis_svg]: https://travis-ci.org/M4rkD/python-novice-inflammation.svg?branch=gh-pages
+[travis_url]: https://travis-ci.org/M4rkD/python-novice-inflammation
+[episode01]: http://M4rkD.github.io/python-novice-inflammation/01-numpy/index.html
+[episode02]: http://M4rkD.github.io/python-novice-inflammation/02-loop/index.html
+[episode03]: http://M4rkD.github.io/python-novice-inflammation/03-lists/index.html
+[episode04]: http://M4rkD.github.io/python-novice-inflammation/04-files/index.html
+[episode05]: http://M4rkD.github.io/python-novice-inflammation/05-cond/index.html
+[episode06]: http://M4rkD.github.io/python-novice-inflammation/06-func/index.html
+[episode10]: http://M4rkD.github.io/python-novice-inflammation/07-cmdline/index.html
+[episode09]: http://M4rkD.github.io/python-novice-inflammation/08-debugging/index.html
+[episode08]: http://M4rkD.github.io/python-novice-inflammation/09-defensive/index.html
+[episode07]: http://M4rkD.github.io/python-novice-inflammation/10-errors/index.html
